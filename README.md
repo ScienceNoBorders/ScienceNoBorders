@@ -21,29 +21,6 @@
 
 ---
 
-## 🚀 About Me
-
-```text
-💻 全栈工程师 / Full Stack Engineer
-
-🌱 专注方向
-    · AI 应用落地（多模型协作 · Prompt · Agent）
-    · 物联网平台 & 智能农业 / 数字乡村
-    · 云原生 · 运维自动化 · 开源分享
-
-📖 从 2020 年起，用代码与文字记录成长
-    → ExperienceSharing：经验、踩坑、读书笔记
-    → 「当获取答案变得简单，好的问题才弥足珍贵。」
-
-⚡ 热爱
-    Coding · Linux · 自动化 · 阅读 · Coffee
-
-🎯 Motto
-    "Science Has No Borders."
-```
-
----
-
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
@@ -119,7 +96,31 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge" alt="Prompt"/>
 </p>
 
-<details>
+---
+
+## 🚀 About Me
+
+```text
+💻 全栈工程师 / Full Stack Engineer
+
+🌱 专注方向
+    · AI 应用落地（多模型协作 · Prompt · Agent）
+    · 物联网平台 & 智能农业 / 数字乡村
+    · 云原生 · 运维自动化 · 开源分享
+
+📖 从 2020 年起，用代码与文字记录成长
+    → ExperienceSharing：经验、踩坑、读书笔记
+    → 「当获取答案变得简单，好的问题才弥足珍贵。」
+
+⚡ 热爱
+    Coding · Linux · 自动化 · 阅读 · Coffee
+
+🎯 Motto
+    "Science Has No Borders."
+```
+---
+
+<details open>
 <summary><b>📌 技能栈一览（可折叠文本版）</b></summary>
 
 | 类别 | 技术 |
