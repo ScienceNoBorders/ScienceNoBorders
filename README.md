@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Nathan，Welcome to my homepage
+# 👋 Hi, I'm Nathan, Thank you for coming.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=920&lines=Full+Stack+Engineer;AI+%C2%B7+IoT+%C2%B7+Smart+Agriculture;Vue+%2F+Java+%2F+Python+%2F+Go;Keep+Learning+%C2%B7+Keep+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
